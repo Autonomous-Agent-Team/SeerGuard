@@ -1,6 +1,13 @@
-# SeerGuard
+# SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction
 
-SeerGuard is a mobile GUI-Agent safety framework, featuring instruction-level and action-level safety mechanisms.
+**A plug-and-play, consequence-aware safety layer for mobile GUI agents.**
+
+[Project Website](https://seerguard.github.io/)
+
+SeerGuard protects mobile GUI agents before risky operations reach a real device. It introduces two pre-execution safeguards:
+
+1. **Instruction-level screening** blocks explicitly malicious or unauthorized requests before task execution begins.
+2. **Action-level risk assessment** predicts the consequence of each candidate action and blocks unsafe operations before they are executed.
 
 ## Quick Start
 
