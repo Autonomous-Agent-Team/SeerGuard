@@ -203,3 +203,20 @@ Alternatively, set environment variables:
 - `GEMINI_API_BASE`: Gemini API base URL
 - `GEMINI_API_KEY`: Gemini API key
 
+
+
+## 📚 Citation
+
+Consider citing our paper!
+
+```
+@inproceedings{seerguard2026,
+  title={SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction},
+  author={Xue Yu, Bo Yuan, Pengshuai Yang, Kailin Zhao, Hong Hu, Junlan Feng},
+  booktitle = {Proceedings of the ACM Multimedia Conference (ACM MM)},
+  year={2026},
+  note={To appear}
+}
+```
+
+
