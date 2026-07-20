@@ -213,6 +213,17 @@ Alternatively, set environment variables:
 ## 📚 Citation
 
 Consider citing our paper!
+```
+@misc{yu2026seerguardsafetyframeworkmobile,
+      title={SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction}, 
+      author={Xue Yu and Bo Yuan and Pengshuai Yang and Kailin Zhao and Hong Hu and Junlan Feng},
+      year={2026},
+      eprint={2607.15550},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.15550}, 
+}
+```
 
 ```
 @inproceedings{seerguard2026,
